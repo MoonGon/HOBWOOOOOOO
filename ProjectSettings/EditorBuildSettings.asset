@@ -1,0 +1,271 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 225ee252883afd04db15ba722d011c6f
+  - enabled: 1
+    path: Assets/Scenes/MainMap/MainMapScene1.unity
+    guid: e39165a7aec88fa4d9b9d641e818774c
+  - enabled: 1
+    path: Assets/Scenes/LoadingScene.unity
+    guid: a0e65769def1abc4280ad5727308f78d
+  - enabled: 1
+    path: Assets/Scenes/SubMap1/SubMap1.unity
+    guid: ea230911e5b33db4dadc82e83b62d266
+  - enabled: 1
+    path: Assets/Scenes/FightingScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/MainMap/MainMapScene3.unity
+    guid: 2acd22cd7c7fe254b8467e5e79c44d81
+  - enabled: 1
+    path: Assets/Scenes/MainMap/MainMapScene2.unity
+    guid: 61b69d990a0ccf343b5cf737b41f5a3a
+  - enabled: 0
+    path: Assets/Scenes/SubMap1/FightingScene 1.unity
+    guid: 8c025c7427127794a9b81ba8ff515004
+  - enabled: 0
+    path: Assets/Scenes/SubMap1/FightingScene 2.unity
+    guid: 499f94fd2c1dad74287afeacc832df35
+  - enabled: 0
+    path: Assets/Scenes/SubMap1/FightingScene 3.unity
+    guid: 04439dec62d6d404594301cc75eef4f4
+  - enabled: 0
+    path: Assets/Scenes/SubMap1/FightingScene 4.unity
+    guid: 4f82fc2ca509694499ad8bb29e346585
+  - enabled: 0
+    path: Assets/Scenes/SubMap1/FightingScene 5.unity
+    guid: eb4d685ac90780d4ea285065e0091615
+  - enabled: 0
+    path: Assets/Scenes/SubMap2/FightingScene 6.unity
+    guid: a5d47b7d4a856324a982379da785c9ab
+  - enabled: 0
+    path: Assets/Scenes/SubMap2/FightingScene 7.unity
+    guid: 63b9ce381a26c834d926085e306d5b84
+  - enabled: 0
+    path: Assets/Scenes/SubMap2/FightingScene 8.unity
+    guid: e9e0d40b7469b00438d74bba8f0c71c6
+  - enabled: 0
+    path: Assets/Scenes/SubMap2/FightingScene 9.unity
+    guid: 2f56b7218b650774ca98670a71fcec83
+  - enabled: 0
+    path: Assets/Scenes/SubMap2/FightingScene 10.unity
+    guid: 6ae98c5dfb94d5145af9b1d54d313e79
+  - enabled: 1
+    path: Assets/Scenes/SubMap2/SubMap2.unity
+    guid: 59712a64886cf6242b00d983c3dc3abe
+  - enabled: 0
+    path: Assets/Scenes/SubMap3/FightingScene 11.unity
+    guid: 7e0f0dc2d6cf0fb4ebf37dda62639a81
+  - enabled: 0
+    path: Assets/Scenes/SubMap3/FightingScene 12.unity
+    guid: ad66031e7c78dc945b25bbc190f3d381
+  - enabled: 0
+    path: Assets/Scenes/SubMap3/FightingScene 13.unity
+    guid: b515fd2527a9f3d48a47ddf44192cd64
+  - enabled: 0
+    path: Assets/Scenes/SubMap3/FightingScene 14.unity
+    guid: 229ae8d54b4dc884ca085d9e8d21e861
+  - enabled: 0
+    path: Assets/Scenes/SubMap3/FightingScene 15.unity
+    guid: b555fab2b200fd0489a9435e44647ed4
+  - enabled: 1
+    path: Assets/Scenes/SubMap3/SubMap3.unity
+    guid: b5353e7a3de6e39458592952a0540e89
+  - enabled: 0
+    path: Assets/Scenes/SubMap4/FightingScene 16.unity
+    guid: 23d5af643b3ac454cbd0e991880408d0
+  - enabled: 0
+    path: Assets/Scenes/SubMap4/FightingScene 17.unity
+    guid: 9dee10cd606bbb645b827e6f10efb094
+  - enabled: 0
+    path: Assets/Scenes/SubMap4/FightingScene 18.unity
+    guid: 37adcd580f8c7d54ba90b8c5971284ec
+  - enabled: 0
+    path: Assets/Scenes/SubMap4/FightingScene 19.unity
+    guid: b064e46439118ad4d951f98aaf9066f6
+  - enabled: 0
+    path: Assets/Scenes/SubMap4/FightingScene 20.unity
+    guid: 378e4b4ae3757c04eab3fc0be6fa9e87
+  - enabled: 1
+    path: Assets/Scenes/SubMap4/SubMap4.unity
+    guid: 2f9c9f09e4905154086390838f67891e
+  - enabled: 0
+    path: Assets/Scenes/SubMap5/FightingScene 21.unity
+    guid: 4eb8593ada6951a4ebda4c4a5830cd30
+  - enabled: 0
+    path: Assets/Scenes/SubMap5/FightingScene 22.unity
+    guid: f85bf629a14ec4343ae3ccc086257eac
+  - enabled: 0
+    path: Assets/Scenes/SubMap5/FightingScene 23.unity
+    guid: 64bd9ea332c77584f89257284b4667a2
+  - enabled: 0
+    path: Assets/Scenes/SubMap5/FightingScene 24.unity
+    guid: b09956e3029ceda4896a3ec3fbfb8dd3
+  - enabled: 0
+    path: Assets/Scenes/SubMap5/FightingScene 25.unity
+    guid: 601493c4f30c1af4d9749eec0b3af3e4
+  - enabled: 1
+    path: Assets/Scenes/SubMap5/SubMap5.unity
+    guid: b0ab6e71db0bc13408800bac95b04587
+  - enabled: 0
+    path: Assets/Scenes/SubMap6/FightingScene 26.unity
+    guid: a5f19af8df03ab1499617255514b6d4e
+  - enabled: 0
+    path: Assets/Scenes/SubMap6/FightingScene 27.unity
+    guid: ca02d09bbda5c264091e72705dc9a9f2
+  - enabled: 0
+    path: Assets/Scenes/SubMap6/FightingScene 28.unity
+    guid: c9409df6719330c44aba78d501a762ef
+  - enabled: 0
+    path: Assets/Scenes/SubMap6/FightingScene 29.unity
+    guid: 56201290196fddf41a4749f3e4628746
+  - enabled: 0
+    path: Assets/Scenes/SubMap6/FightingScene 30.unity
+    guid: 560a28a761b9d9b4398acc2975e7a7ed
+  - enabled: 1
+    path: Assets/Scenes/SubMap6/SubMap6.unity
+    guid: bd48713f66c085d4993abe93e68ecb60
+  - enabled: 0
+    path: Assets/Scenes/SubMap7/FightingScene 31.unity
+    guid: a69ae890e9efe09459c401b61088b120
+  - enabled: 0
+    path: Assets/Scenes/SubMap7/FightingScene 32.unity
+    guid: cfc670e4279623147b725c9b489f3f90
+  - enabled: 0
+    path: Assets/Scenes/SubMap7/FightingScene 33.unity
+    guid: e883c5fc4fdfb924db43b75f76af7b28
+  - enabled: 0
+    path: Assets/Scenes/SubMap7/FightingScene 34.unity
+    guid: a38e9c47524b6dc458fba38a98176cfc
+  - enabled: 0
+    path: Assets/Scenes/SubMap7/FightingScene 35.unity
+    guid: 7aa2979fd8ab71040b7e6a35245e9161
+  - enabled: 1
+    path: Assets/Scenes/SubMap7/SubMap7.unity
+    guid: ee59e1622d55b3244aef5eae6b5b9373
+  - enabled: 1
+    path: Assets/Scenes/SubMap8/FightingScene 36.unity
+    guid: b29e642865ee0e94b9a96cc40eabfe8d
+  - enabled: 1
+    path: Assets/Scenes/SubMap8/SubMap8.unity
+    guid: 1bb585f1ba11c1841849db82cafb76c8
+  - enabled: 1
+    path: Assets/Scenes/SubMap1/FightingScene_No 2.unity
+    guid: c0064268b8bb5bd439a03c3859507331
+  - enabled: 1
+    path: Assets/Scenes/SubMap1/FightingScene_No 1.unity
+    guid: 529684a39650e2248af31175ec2fca81
+  - enabled: 1
+    path: Assets/Scenes/SubMap1/FightingScene_No 3.unity
+    guid: 67efffe57db97fc499df4782123e6811
+  - enabled: 1
+    path: Assets/Scenes/SubMap1/FightingScene_No 4.unity
+    guid: f50d5aa71f46886489d28e5921b53aed
+  - enabled: 1
+    path: Assets/Scenes/SubMap1/FightingScene_No 5.unity
+    guid: dec0c7022de92094c961ae20c1151daf
+  - enabled: 1
+    path: Assets/Scenes/SubMap2/FightingScene_No 6.unity
+    guid: 0a9c3a860bb583f47828d285d9a223f2
+  - enabled: 1
+    path: Assets/Scenes/SubMap2/FightingScene_No 7.unity
+    guid: 0a855314dd65ada46bc727e488b83400
+  - enabled: 1
+    path: Assets/Scenes/SubMap2/FightingScene_No 8.unity
+    guid: 2067cbe394bb81045a8e06c40760c010
+  - enabled: 1
+    path: Assets/Scenes/SubMap2/FightingScene_No 9.unity
+    guid: b6f165d114afb344ca626c409e9412f2
+  - enabled: 1
+    path: Assets/Scenes/SubMap2/FightingScene_No 10.unity
+    guid: 839cd49689eee4a48a5021783b2d6656
+  - enabled: 1
+    path: Assets/Scenes/SubMap3/FightingScene_No 11.unity
+    guid: 5227284090d55694c85133da71fdb7d6
+  - enabled: 1
+    path: Assets/Scenes/SubMap3/FightingScene_No 12.unity
+    guid: 32a967b1e400b184eb6ebaef439836f9
+  - enabled: 1
+    path: Assets/Scenes/SubMap3/FightingScene_No 13.unity
+    guid: efb77a96caaaa504ebbc65f1d7539587
+  - enabled: 1
+    path: Assets/Scenes/SubMap3/FightingScene_No 14.unity
+    guid: 88f88f86c8ec39c4fa783520f8936caf
+  - enabled: 1
+    path: Assets/Scenes/SubMap3/FightingScene_No 15.unity
+    guid: a604af583343ad046b17110172313ebf
+  - enabled: 1
+    path: Assets/Scenes/SubMap4/FightingScene_No 16.unity
+    guid: ffbbf6f93814e434ea4221c4c7776656
+  - enabled: 1
+    path: Assets/Scenes/SubMap4/FightingScene_No 17.unity
+    guid: 4d5290bf5d18e7d4baeb0e3b95bd4022
+  - enabled: 1
+    path: Assets/Scenes/SubMap4/FightingScene_No 18.unity
+    guid: aa40b283a5e4025479150624f9d5b00b
+  - enabled: 1
+    path: Assets/Scenes/SubMap4/FightingScene_No 19.unity
+    guid: 3f8a2f9d83a2d944eb90b9fe6d6e0d05
+  - enabled: 1
+    path: Assets/Scenes/SubMap4/FightingScene_No 20.unity
+    guid: a1f3dfa8a094fbb4b8ac697ad35059ec
+  - enabled: 1
+    path: Assets/Scenes/SubMap5/FightingScene_No 21.unity
+    guid: 075d27f818c87834cb4acf10e0d5da12
+  - enabled: 1
+    path: Assets/Scenes/SubMap5/FightingScene_No 22.unity
+    guid: a3de37469935b8d4b84cd732269d9481
+  - enabled: 1
+    path: Assets/Scenes/SubMap5/FightingScene_No 23.unity
+    guid: 33dc6cb595a32ae4db1d0c41c7bb5eaf
+  - enabled: 1
+    path: Assets/Scenes/SubMap5/FightingScene_No 24.unity
+    guid: f00dfc1862d7e4d4ca53e00f6e99c9cb
+  - enabled: 1
+    path: Assets/Scenes/SubMap5/FightingScene_No 25.unity
+    guid: 7b92c9be54bd618439c3a2b0238069b5
+  - enabled: 1
+    path: Assets/Scenes/SubMap6/FightingScene_No 26.unity
+    guid: d4ac612f6478d924789928d7db338bff
+  - enabled: 1
+    path: Assets/Scenes/SubMap6/FightingScene_No 27.unity
+    guid: b94ae3fe84342da4cb21d557c42257b1
+  - enabled: 1
+    path: Assets/Scenes/SubMap6/FightingScene_No 28.unity
+    guid: ce7cd58d8ac032341914540a39f7d1f8
+  - enabled: 1
+    path: Assets/Scenes/SubMap6/FightingScene_No 29.unity
+    guid: 653a63ffc30cac84caadfaf4d9aecc0c
+  - enabled: 1
+    path: Assets/Scenes/SubMap6/FightingScene_No 30.unity
+    guid: 58f8f377faaa16142b8d0d23aa5481a5
+  - enabled: 1
+    path: Assets/Scenes/SubMap7/FightingScene_No 31.unity
+    guid: d2119df254f9a484cbc8135aa5c12da5
+  - enabled: 1
+    path: Assets/Scenes/SubMap7/FightingScene_No 32.unity
+    guid: 8a838cbb54ac3b44790d441f5c8bd64e
+  - enabled: 1
+    path: Assets/Scenes/SubMap7/FightingScene_No 33.unity
+    guid: 98f0f58262b608743b2b550e1c1474fb
+  - enabled: 1
+    path: Assets/Scenes/SubMap7/FightingScene_No 34.unity
+    guid: 4ec8940988208b94290141de7050a1e1
+  - enabled: 1
+    path: Assets/Scenes/SubMap7/FightingScene_No 35.unity
+    guid: a0a574b1222992f4a884c6b63b0cf74c
+  - enabled: 1
+    path: Assets/Scenes/SubMap8/FightingScene_No 36.unity
+    guid: 2a3a1666206ca5b4d8d7caf25206d44e
+  - enabled: 1
+    path: Assets/Scenes/tutuScene.unity
+    guid: 4953aad86fbe76f479e80aa909c2a3a0
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0
